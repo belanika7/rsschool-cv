@@ -11,3 +11,28 @@
 [2]: https://www.linkedin.com/in/karina-anikeichenko-343789208/
 ## About Me
 I started my way as UI/UX designer. Then, I supplemented my education and began a career in IT as a Business Analyst. I am eager to grow and improve technical skills, so I have strong motivation to get knowledge in Front-end / JavaScript.
+## Skills
+* HTML/CSS
+* Requiments gathering
+* Experience in Visual Modeling (UML, BPMN)
+* Working on Agile projects 
+* Close collaboration with customers
+* UAT testing
+* Mockup creation
+## Code Example
+```javascript
+import time
+start_time= time.time()
+def fun():
+    a=2
+    b=3
+    c=a+b
+end_time= time.time()
+fun()
+timetaken = end_time - start_time
+print("Your program takes: ", timetaken) # 0.0345
+```
+## Work Experience
+* Business Analyst, Analyze & Design IT Oct 2021 - Jun 2022
+* UI/UX Designer, Freelance Feb 2021 - Oct 2021
+* Lawyer, LLC BATAUTOTRADE Jul 2021 - Feb 2021
