@@ -1,5 +1,5 @@
 # Karina Anikeichenko
-![img cv](photo_2022-05-28_09-46-27.jpg)
+![alt-текст](https://media-exp2.licdn.com/dms/image/C4E03AQFLVFGpIBk5Xg/profile-displayphoto-shrink_400_400/0/1653720467855?e=1660176000&v=beta&t=odyCDpODUZmEz6j8JOBLiylt5-8SrBzKbQ9ogVbZjp8 "фото4ка")
 ## Contacts
 * Location: Minsk, Belarus
 * Email: belanika27@gmail.com
