@@ -36,3 +36,10 @@ print("Your program takes: ", timetaken) # 0.0345
 * Business Analyst, Analyze & Design IT Oct 2021 - Jun 2022
 * UI/UX Designer, Freelance Feb 2021 - Oct 2021
 * Lawyer, LLC BATAUTOTRADE Jul 2021 - Feb 2021
+## Education
+* Stepic HTML & CSS May 2022
+* Business Analyze, Analyze & Design IT Jul 2021 - Nov 2021
+* UI/UX IT Academy Dec 2021 - Feb 2021
+* BSEU, Legal support of foreign economic activity Sep 2015 - Jun 2019
+## English
+Upper Intermediate (CEFR B2)
