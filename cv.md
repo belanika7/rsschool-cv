@@ -21,16 +21,9 @@ I started my way as UI/UX designer. Then, I supplemented my education and began 
 * Mockup creation
 ## Code Example
 ```javascript
-import time
-start_time= time.time()
-def fun():
-    a=2
-    b=3
-    c=a+b
-end_time= time.time()
-fun()
-timetaken = end_time - start_time
-print("Your program takes: ", timetaken) # 0.0345
+function multiply(a, b){
+  a * b
+}
 ```
 ## Work Experience
 * Business Analyst, Analyze & Design IT Oct 2021 - Jun 2022
